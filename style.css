@@ -1,0 +1,26 @@
+body{
+    position: relative;
+    padding: 140px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+   
+}
+.button{
+    background-color: #8c8992;
+    width: 50%;
+    border-radius: 25px;
+}
+.button:hover{
+    background-color: #000080;
+}
+#result{
+    width:100%;
+}
+h1{
+  text-align: center;
+  color:#fff;
+  font-weight: 600;
+  letter-spacing: 10px;
+  padding-bottom: 10px;
+  padding-top:10px;
+}
